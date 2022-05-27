@@ -1,3 +1,3 @@
-# CS---479
+# CS-479
 
 Wearable Technology lab
